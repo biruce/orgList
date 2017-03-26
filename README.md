@@ -1,6 +1,6 @@
 https://github.com/biruce-ai   
 https://github.com/biruce-bc   
-https://github.com/biruce-cd   
+https://github.com/biruce-ci     
 https://github.com/biruce-db   
 https://github.com/biruce-bigdata   
 https://github.com/biruce-linux   
