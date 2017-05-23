@@ -22,5 +22,5 @@ https://github.com/biruce-docker
 https://github.com/biruce-openstack   
    
 https://github.com/biruce-quants   
-https://github.com/biruce-hack   
-https://github.com/biruce-make 
+https://github.com/biruce-hacker   
+https://github.com/biruce-maker 
