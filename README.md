@@ -4,6 +4,7 @@ https://github.com/biruce-ci
 https://github.com/biruce-db   
 https://github.com/biruce-bigdata   
 https://github.com/biruce-linux   
+https://github.com/biruce-kali   
 https://github.com/biruce-ui   
 https://github.com/biruce-ms   
    
