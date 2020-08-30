@@ -2,11 +2,11 @@ https://github.com/biruce-ai
 https://github.com/biruce-bc   
 https://github.com/biruce-ci     
 https://github.com/biruce-db   
-https://github.com/biruce-bigdata   
-https://github.com/biruce-linux   
-https://github.com/biruce-kali   
+https://github.com/biruce-bd   
+https://github.com/biruce-os   
+https://github.com/biruce-s6y   
 https://github.com/biruce-ui   
-https://github.com/biruce-ms   
+https://github.com/biruce-cna   
    
 https://github.com/biruce-3dp   
 https://github.com/biruce-ni   
@@ -23,8 +23,8 @@ https://github.com/biruce-python
 https://github.com/biruce-go   
 https://github.com/biruce-c   
    
-https://github.com/biruce-docker   
-https://github.com/biruce-openstack   
+https://github.com/biruce-k8s   
+https://github.com/biruce-o7k   
   
 https://github.com/biruce-hacker   
 https://github.com/biruce-quants   
